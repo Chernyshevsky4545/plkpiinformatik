@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных со сборкой.
-[assembly: AssemblyTitle("task_1")]
+[assembly: AssemblyTitle("task")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ZverDVD")]
-[assembly: AssemblyProduct("task_1")]
+[assembly: AssemblyProduct("task")]
 [assembly: AssemblyCopyright("Copyright © ZverDVD 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("982d78d0-9d1f-475c-8b54-91656d3ab064")]
+[assembly: Guid("bf5d5889-9c99-4495-b65a-0ca4e0acead0")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
