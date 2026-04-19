@@ -14,7 +14,6 @@ namespace task2
             InitializeComponent();
         }
 
-        // Цей метод ми підключимо до всіх кнопок вручну
         private void GameButtonClick(object sender, EventArgs e)
         {
             Button btn = (Button)sender;
@@ -46,7 +45,6 @@ namespace task2
 
         private bool CheckWinner()
         {
-            // Перевірка ліній (горизонталі, вертикалі, діагоналі)
             if (CheckLine(button1, button2, button3)) return true;
             if (CheckLine(button4, button5, button6)) return true;
             if (CheckLine(button7, button8, button9)) return true;
